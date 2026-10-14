@@ -1,0 +1,18 @@
+# Web scraping (tn_rag_app.py)
+playwright
+unstructured
+
+# LangChain core and integrations
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Vector store
+faiss-cpu
+
+# API key loading from .env
+python-dotenv
+
+# User interface (app.py)
+streamlit
